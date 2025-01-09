@@ -85,9 +85,9 @@
 
  .effective-title {
      font-family: Roboto, sans-serif;
-     font-size: 56px;
+     font-size: 16px;
      font-weight: 700;
-     line-height: 0, 9em;
+     line-height: 1.5em;
      letter-spacing: 0.02em;
      color: #FFFFFF;
      ;
@@ -96,20 +96,27 @@
  .effective-btn {
      font-size: 16px;
      font-weight: 500;
-     line-height: 0, 6em;
+     line-height: 1.5em;
      letter-spacing: 0.04em;
      text-align: left;
+     cursor: pointer;
      color: #FFFFFF;
      background-color: #4D5AE5;
+ }
+
+ .effective-btn:hover,
+ .effective-bth:focus {
+     background-color: #404BBF;
  }
 
  .advantage {}
 
  .advantage-title {
      font-size: 16px;
-     font-weight: 400;
-     line-height: 0.66em;
+     font-weight: 500;
+     line-height: 1.07em;
      letter-spacing: 0.02em;
+     text-align: center;
      color: #2E2F42;
 
  }
@@ -123,8 +130,8 @@
  }
 
  .our-team-title {
-     font-size: 36px;
-     font-weight: 700;
+     font-size: 20px;
+     font-weight: 500;
      line-height: 0, 9em;
      letter-spacing: 0.02em;
      color: #2E2F42;
