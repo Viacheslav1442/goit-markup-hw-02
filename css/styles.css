@@ -97,11 +97,45 @@
 
  .advantage {}
 
- .advantage-list {
+ .advantage-title {
      font-size: 16px;
      font-weight: 400;
-     line-height: 66.6em;
+     line-height: 0.66em;
      letter-spacing: 0.02em;
      color: #2E2F42;
 
+ }
+
+ .advantages-text {
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 0.66em;
+     letter-spacing: 0.02em;
+     color: #434455;
+ }
+
+ .our-team-title {
+     font-size: 36px;
+     font-weight: 700;
+     line-height: 0, 9em;
+     letter-spacing: 0.02em;
+     color: #2E2F42;
+ }
+
+ .our-team-name {
+
+     font-size: 20px;
+     font-weight: 500;
+     line-height: 0, 83em;
+     letter-spacing: 0.02em;
+     color: #2E2F42;
+
+ }
+
+ .our-team-text {
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 0.66em;
+     letter-spacing: 0.02em;
+     color: #434455;
  }
