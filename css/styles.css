@@ -38,6 +38,14 @@
      color: #F4F4FD;
  }
 
+ .footer-text {
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 0.66;
+     letter-spacing: 0.02em;
+     color: #F4F4FD;
+ }
+
  .nav-link {
      font-size: 16px;
      font-weight: 500;
@@ -136,6 +144,31 @@
      font-size: 16px;
      font-weight: 400;
      line-height: 0.66em;
+     letter-spacing: 0.02em;
+     color: #434455;
+ }
+
+ .our-portfolio-title {
+     font-family: Roboto, sans-serif;
+     font-size: 36px;
+     font-weight: 700;
+     line-height: 0, 9;
+     letter-spacing: 0.02em;
+     color: #2E2F42;
+ }
+
+ .our-portfolio-name {
+     font-size: 20px;
+     font-weight: 500;
+     line-height: 0.83;
+     letter-spacing: 0.02em;
+     color: #2E2F42;
+ }
+
+ .our-portfolio-text {
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 0.66;
      letter-spacing: 0.02em;
      color: #434455;
  }
