@@ -1,10 +1,10 @@
- /*font-family: "Raleway",
+ /*font-family: 'Raleway',
  serif;
  font-family: "Roboto",
  serif;*/
 
  body {
-     font-family: "Roboto", sans-serif;
+     font-family: 'Roboto', sans-serif;
      color: #434455;
      background-color: #fff;
  }
@@ -19,7 +19,7 @@
  }
 
  .logo {
-     font-family: "Raleway", sans-serif;
+     font-family: 'Raleway', sans-serif;
      font-size: 18px;
      font-weight: 700;
      line-height: 1.17;
@@ -27,9 +27,15 @@
      text-transform: uppercase;
      color: #4D5AE5;
      ;
+
  }
 
- .header-logo .logo-part {
+ .logo-header-logo {
+     font-size: 18px;
+     color: #4D5AE5;
+ }
+
+ .logo-header-logo .logo-part {
      color: #2E2F42;
 
  }
@@ -84,7 +90,7 @@
  }
 
  .effective-title {
-     font-family: "Roboto", sans-serif;
+     font-family: 'Roboto', sans-serif;
      font-size: 56px;
      font-weight: 700;
      line-height: 1.07em;
@@ -106,13 +112,12 @@
  }
 
  .effective-btn:hover,
- .effective-bth:focus {
+ .effective-btn:focus {
      background-color: #404BBF;
  }
 
- .advantage {}
 
- .advantage-title {
+ .advantages-title {
      font-size: 20px;
      font-weight: 500;
      line-height: 1.2em;
@@ -141,15 +146,20 @@
      background-color: #F4F4FD;
  }
 
+ .our-team-item {
+     background-color: #FFFFFF;
+ }
+
  .our-team-list {
      background-color: #FFFFFF;
  }
+
 
  .our-team-name {
 
      font-size: 20px;
      font-weight: 500;
-     line-height: 0, 83em;
+     line-height: 1.2em;
      letter-spacing: 0.02em;
      color: #2E2F42;
 
