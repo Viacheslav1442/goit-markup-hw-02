@@ -19,7 +19,7 @@
  }
 
  .logo {
-     font-family: Raleway, sans-serif;
+     font-family: "Raleway", sans-serif;
      font-size: 18px;
      font-weight: 700;
      line-height: 1.17;
@@ -41,7 +41,7 @@
  .footer-text {
      font-size: 16px;
      font-weight: 400;
-     line-height: 0.66;
+     line-height: 1.5em;
      letter-spacing: 0.02em;
      color: #F4F4FD;
  }
@@ -84,11 +84,12 @@
  }
 
  .effective-title {
-     font-family: Roboto, sans-serif;
-     font-size: 16px;
+     font-family: "Roboto", sans-serif;
+     font-size: 56px;
      font-weight: 700;
-     line-height: 1.5em;
+     line-height: 1.07em;
      letter-spacing: 0.02em;
+     text-align: center;
      color: #FFFFFF;
      ;
  }
@@ -112,9 +113,9 @@
  .advantage {}
 
  .advantage-title {
-     font-size: 16px;
+     font-size: 20px;
      font-weight: 500;
-     line-height: 1.07em;
+     line-height: 1.2em;
      letter-spacing: 0.02em;
      text-align: center;
      color: #2E2F42;
@@ -124,17 +125,24 @@
  .advantages-text {
      font-size: 16px;
      font-weight: 400;
-     line-height: 0.66em;
+     line-height: 1.5em;
      letter-spacing: 0.02em;
      color: #434455;
  }
 
  .our-team-title {
-     font-size: 20px;
+     font-size: 36px;
      font-weight: 500;
-     line-height: 0, 9em;
+     line-height: 1.11em;
      letter-spacing: 0.02em;
+     text-align: center;
+     text-transform: capitalize;
      color: #2E2F42;
+     background-color: #F4F4FD;
+ }
+
+ .our-team-list {
+     background-color: #FFFFFF;
  }
 
  .our-team-name {
@@ -150,24 +158,26 @@
  .our-team-text {
      font-size: 16px;
      font-weight: 400;
-     line-height: 0.66em;
+     line-height: 1.5em;
      letter-spacing: 0.02em;
      color: #434455;
  }
 
  .our-portfolio-title {
-     font-family: Roboto, sans-serif;
+     font-family: "Roboto", sans-serif;
      font-size: 36px;
      font-weight: 700;
-     line-height: 0, 9;
+     line-height: 1.11em;
      letter-spacing: 0.02em;
+     text-align: center;
+     text-transform: capitalize;
      color: #2E2F42;
  }
 
  .our-portfolio-name {
      font-size: 20px;
      font-weight: 500;
-     line-height: 0.83;
+     line-height: 1.2em;
      letter-spacing: 0.02em;
      color: #2E2F42;
  }
@@ -175,7 +185,7 @@
  .our-portfolio-text {
      font-size: 16px;
      font-weight: 400;
-     line-height: 0.66;
+     line-height: 1.5em;
      letter-spacing: 0.02em;
      color: #434455;
  }
