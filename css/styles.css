@@ -151,11 +151,13 @@
      background-color: #F4F4FD;
  }
 
-
-
-
  .our-team-list {
      background-color: #FFFFFF;
+ }
+
+
+ .our-team-item {
+     background-color: #F4F4FD;
  }
 
 
@@ -189,9 +191,7 @@
 
  }
 
- .our-portfolio-item {
-     background-color: #FFFFFF;
- }
+
 
  .our-portfolio-name {
      font-size: 20px;
