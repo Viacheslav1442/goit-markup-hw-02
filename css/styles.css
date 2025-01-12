@@ -132,6 +132,7 @@
 
  }
 
+
  .advantages-text {
      font-size: 16px;
      font-weight: 400;
@@ -148,7 +149,7 @@
      text-align: center;
      text-transform: capitalize;
      color: #2E2F42;
-     background-color: #F4F4FD;
+
  }
 
  .our-team-list {
@@ -168,6 +169,7 @@
      line-height: 1.2em;
      letter-spacing: 0.02em;
      color: #2E2F42;
+     background: #FFFFFF;
 
  }
 
